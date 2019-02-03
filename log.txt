@@ -1,0 +1,196 @@
+2018-11-28 10:06 - INFO - runner - Demultiplex reads
+2018-11-28 10:07 - INFO - demultiplex - Demultiplexed 5,000,000 samples
+2018-11-28 10:09 - INFO - demultiplex - Demultiplexed 10,000,000 samples
+2018-11-28 10:11 - INFO - demultiplex - Demultiplexed 15,000,000 samples
+2018-11-28 10:13 - INFO - demultiplex - Demultiplexed 20,000,000 samples
+2018-11-28 10:15 - INFO - demultiplex - Demultiplexed 25,000,000 samples
+2018-11-28 10:17 - INFO - demultiplex - Demultiplexed 30,000,000 samples
+2018-11-28 10:19 - INFO - demultiplex - Demultiplexed 35,000,000 samples
+2018-11-28 10:22 - INFO - demultiplex - Demultiplexed 40,000,000 samples
+2018-11-28 10:26 - INFO - demultiplex - Demultiplexed 45,000,000 samples
+2018-11-28 10:27 - INFO - demultiplex - Demultiplexed 50,000,000 samples
+2018-11-28 10:29 - INFO - demultiplex - Demultiplexed 55,000,000 samples
+2018-11-28 10:31 - INFO - demultiplex - Demultiplexed 60,000,000 samples
+2018-11-28 10:33 - INFO - demultiplex - Demultiplexed 65,000,000 samples
+2018-11-28 10:36 - INFO - demultiplex - Demultiplexed 70,000,000 samples
+2018-11-28 10:38 - INFO - demultiplex - Demultiplexed 75,000,000 samples
+2018-11-28 10:40 - INFO - demultiplex - Demultiplexed 80,000,000 samples
+2018-11-28 10:42 - INFO - demultiplex - Demultiplexed 85,000,000 samples
+2018-11-28 10:44 - INFO - demultiplex - Demultiplexed 90,000,000 samples
+2018-11-28 10:46 - INFO - demultiplex - Demultiplexed 95,000,000 samples
+2018-11-28 10:47 - INFO - demultiplex - Demultiplexed 100,000,000 samples
+2018-11-28 10:49 - INFO - demultiplex - Demultiplexed 105,000,000 samples
+2018-11-28 10:51 - INFO - demultiplex - Demultiplexed 110,000,000 samples
+2018-11-28 10:53 - INFO - demultiplex - Demultiplexed 115,000,000 samples
+2018-11-28 10:55 - INFO - demultiplex - Demultiplexed 120,000,000 samples
+2018-11-28 10:57 - INFO - demultiplex - Demultiplexed 125,000,000 samples
+2018-11-28 10:59 - INFO - demultiplex - Demultiplexed 130,000,000 samples
+2018-11-28 11:01 - INFO - demultiplex - Demultiplexed 135,000,000 samples
+2018-11-28 11:02 - INFO - demultiplex - Demultiplexed 140,000,000 samples
+2018-11-28 11:04 - INFO - demultiplex - Demultiplexed 145,000,000 samples
+2018-11-28 11:06 - INFO - demultiplex - Demultiplexed 150,000,000 samples
+2018-11-28 11:08 - INFO - demultiplex - Demultiplexed 155,000,000 samples
+2018-11-28 11:10 - INFO - demultiplex - Demultiplexed 160,000,000 samples
+2018-11-28 11:12 - INFO - demultiplex - Demultiplexed 165,000,000 samples
+2018-11-28 11:14 - INFO - demultiplex - Demultiplexed 170,000,000 samples
+2018-11-28 11:16 - INFO - demultiplex - Demultiplexed 175,000,000 samples
+2018-11-28 11:17 - INFO - demultiplex - Demultiplexed 180,000,000 samples
+2018-11-28 11:19 - INFO - demultiplex - Demultiplexed 185,000,000 samples
+2018-11-28 11:21 - INFO - demultiplex - Demultiplexed 190,000,000 samples
+2018-11-28 11:23 - INFO - demultiplex - Demultiplexed 195,000,000 samples
+2018-11-28 11:25 - INFO - demultiplex - Demultiplexed 200,000,000 samples
+2018-11-28 11:27 - INFO - demultiplex - Demultiplexed 205,000,000 samples
+2018-11-28 11:29 - INFO - demultiplex - Demultiplexed 210,000,000 samples
+2018-11-28 11:31 - INFO - demultiplex - Demultiplexed 215,000,000 samples
+2018-11-28 11:33 - INFO - demultiplex - Demultiplexed 220,000,000 samples
+2018-11-28 11:35 - INFO - demultiplex - Demultiplexed 225,000,000 samples
+2018-11-28 11:37 - INFO - demultiplex - Demultiplexed 230,000,000 samples
+2018-11-28 11:38 - INFO - demultiplex - Demultiplexed 235,000,000 samples
+2018-11-28 11:40 - INFO - demultiplex - Demultiplexed 240,000,000 samples
+2018-11-28 11:42 - INFO - demultiplex - Demultiplexed 245,000,000 samples
+2018-11-28 11:44 - INFO - demultiplex - Demultiplexed 250,000,000 samples
+2018-11-28 11:46 - INFO - demultiplex - Demultiplexed 255,000,000 samples
+2018-11-28 11:48 - INFO - demultiplex - Demultiplexed 260,000,000 samples
+2018-11-28 11:50 - INFO - demultiplex - Demultiplexed 265,000,000 samples
+2018-11-28 11:51 - INFO - demultiplex - Total records demultiplexed: 266,041,232
+2018-11-28 11:51 - INFO - runner - Prepare genome features (.ftt) and fasta nucleotide (.fna) files
+2018-11-28 11:51 - INFO - runner - Prepare bowtie index
+2018-11-28 11:51 - INFO - runner - Building bowtie index files in results/klebsiella-09/genome_lookup
+2018-11-28 11:51 - INFO - runner - Map with bowtie
+2018-11-28 11:51 - INFO - runner - Sample E1004_01: map reads with bowtie
+2018-11-28 11:53 - INFO - runner - # reads processed: 12798268
+# reads with at least one reported alignment: 12180341 (95.17%)
+# reads that failed to align: 127620 (1.00%)
+# reads with alignments suppressed due to -m: 490307 (3.83%)
+Reported 12180341 alignments to 1 output stream(s)
+
+2018-11-28 11:53 - INFO - runner - Sample E1004_01: summarize the site data from the bowtie results
+2018-11-28 11:53 - INFO - runner - Sample E1004_01: map site data to genes
+2018-11-28 11:55 - INFO - runner - N50 result for E1004_01: 1866
+2018-11-28 11:55 - INFO - runner - Sample E1004_03: map reads with bowtie
+2018-11-28 11:57 - INFO - runner - # reads processed: 10672756
+# reads with at least one reported alignment: 10193735 (95.51%)
+# reads that failed to align: 91986 (0.86%)
+# reads with alignments suppressed due to -m: 387035 (3.63%)
+Reported 10193735 alignments to 1 output stream(s)
+
+2018-11-28 11:57 - INFO - runner - Sample E1004_03: summarize the site data from the bowtie results
+2018-11-28 11:57 - INFO - runner - Sample E1004_03: map site data to genes
+2018-11-28 11:59 - INFO - runner - N50 result for E1004_03: 2202
+2018-11-28 11:59 - INFO - runner - Sample E1004_04: map reads with bowtie
+2018-11-28 12:00 - INFO - runner - # reads processed: 12275872
+# reads with at least one reported alignment: 11772371 (95.90%)
+# reads that failed to align: 100816 (0.82%)
+# reads with alignments suppressed due to -m: 402685 (3.28%)
+Reported 11772371 alignments to 1 output stream(s)
+
+2018-11-28 12:00 - INFO - runner - Sample E1004_04: summarize the site data from the bowtie results
+2018-11-28 12:01 - INFO - runner - Sample E1004_04: map site data to genes
+2018-11-28 12:03 - INFO - runner - N50 result for E1004_04: 1995
+2018-11-28 12:03 - INFO - runner - Sample E1004_05: map reads with bowtie
+2018-11-28 12:04 - INFO - runner - # reads processed: 9059080
+# reads with at least one reported alignment: 8650581 (95.49%)
+# reads that failed to align: 110692 (1.22%)
+# reads with alignments suppressed due to -m: 297807 (3.29%)
+Reported 8650581 alignments to 1 output stream(s)
+
+2018-11-28 12:04 - INFO - runner - Sample E1004_05: summarize the site data from the bowtie results
+2018-11-28 12:04 - INFO - runner - Sample E1004_05: map site data to genes
+2018-11-28 12:06 - INFO - runner - N50 result for E1004_05: 1255
+2018-11-28 12:06 - INFO - runner - Sample E1004_06: map reads with bowtie
+2018-11-28 12:10 - INFO - runner - # reads processed: 14265805
+# reads with at least one reported alignment: 13598780 (95.32%)
+# reads that failed to align: 130416 (0.91%)
+# reads with alignments suppressed due to -m: 536609 (3.76%)
+Reported 13598780 alignments to 1 output stream(s)
+
+2018-11-28 12:10 - INFO - runner - Sample E1004_06: summarize the site data from the bowtie results
+2018-11-28 12:10 - INFO - runner - Sample E1004_06: map site data to genes
+2018-11-28 12:12 - INFO - runner - N50 result for E1004_06: 2576
+2018-11-28 12:12 - INFO - runner - Sample E1004_08: map reads with bowtie
+2018-11-28 12:17 - INFO - runner - # reads processed: 14468020
+# reads with at least one reported alignment: 13813383 (95.48%)
+# reads that failed to align: 134844 (0.93%)
+# reads with alignments suppressed due to -m: 519793 (3.59%)
+Reported 13813383 alignments to 1 output stream(s)
+
+2018-11-28 12:17 - INFO - runner - Sample E1004_08: summarize the site data from the bowtie results
+2018-11-28 12:17 - INFO - runner - Sample E1004_08: map site data to genes
+2018-11-28 12:20 - INFO - runner - N50 result for E1004_08: 3254
+2018-11-28 12:20 - INFO - runner - Sample E1004_13: map reads with bowtie
+2018-11-28 12:25 - INFO - runner - # reads processed: 14886382
+# reads with at least one reported alignment: 14182306 (95.27%)
+# reads that failed to align: 206820 (1.39%)
+# reads with alignments suppressed due to -m: 497256 (3.34%)
+Reported 14182306 alignments to 1 output stream(s)
+
+2018-11-28 12:25 - INFO - runner - Sample E1004_13: summarize the site data from the bowtie results
+2018-11-28 12:26 - INFO - runner - Sample E1004_13: map site data to genes
+2018-11-28 12:30 - INFO - runner - N50 result for E1004_13: 7008
+2018-11-28 12:30 - INFO - runner - Sample E1004_14: map reads with bowtie
+2018-11-28 12:34 - INFO - runner - # reads processed: 14522709
+# reads with at least one reported alignment: 13878596 (95.56%)
+# reads that failed to align: 225932 (1.56%)
+# reads with alignments suppressed due to -m: 418181 (2.88%)
+Reported 13878596 alignments to 1 output stream(s)
+
+2018-11-28 12:34 - INFO - runner - Sample E1004_14: summarize the site data from the bowtie results
+2018-11-28 12:35 - INFO - runner - Sample E1004_14: map site data to genes
+2018-11-28 12:39 - INFO - runner - N50 result for E1004_14: 6958
+2018-11-28 12:39 - INFO - runner - Sample E1004_15: map reads with bowtie
+2018-11-28 12:41 - INFO - runner - # reads processed: 14410284
+# reads with at least one reported alignment: 13815420 (95.87%)
+# reads that failed to align: 185115 (1.28%)
+# reads with alignments suppressed due to -m: 409749 (2.84%)
+Reported 13815420 alignments to 1 output stream(s)
+
+2018-11-28 12:41 - INFO - runner - Sample E1004_15: summarize the site data from the bowtie results
+2018-11-28 12:42 - INFO - runner - Sample E1004_15: map site data to genes
+2018-11-28 12:46 - INFO - runner - N50 result for E1004_15: 7228
+2018-11-28 12:46 - INFO - runner - Aggregate gene mapping from all samples into the summary_data_table
+2018-11-28 12:46 - INFO - runner - Print samples info: results/klebsiella-09/samples.yml
+2018-11-28 12:46 - INFO - runner - Print summary log: results/klebsiella-09/log.txt
+2018-11-28 12:46 - INFO - runner - Print command entered
+pyinseq -i /home/eburgos/Documents/klebsiella_dataAnalysis/Data_INSeq/E1004-E1005_S1_L006_R1_001.fastq.gz -s /home/eburgos/Documents/klebsiella_dataAnalysis/D12-KlebstelleINSeq-Details/OnlyGoodE1004_samples.txt -g /home/eburgos/Documents/klebsiella_dataAnalysis/Genome-Lookup/CP009208.gbk -e klebsiella-0.9 -d 0.9
+2018-11-28 12:46 - INFO - runner - Print settings
+command: pyinseq
+experiment: klebsiella-09
+path: results/klebsiella-09/
+parse_genbank_file: True
+genome_path: results/klebsiella-09/genome_lookup/
+organism: genome
+raw_path: results/klebsiella-09/raw_data/
+generate_bowtie_index: True
+process_reads: True
+process_sample_list: True
+map_to_genome: True
+samples_yaml: results/klebsiella-09/samples.yml
+summary_log: results/klebsiella-09/log.txt
+write_trimmed_reads: True
+min_counts: 3
+max_ratio: 10
+keepall: False
+barcode_length: 4
+disruption: 0.9
+2018-11-28 12:46 - INFO - runner - Print samples detail
+!!python/object/apply:collections.OrderedDict
+- - - E1004_01
+    - barcode: TTTT
+  - - E1004_03
+    - barcode: CCCC
+  - - E1004_04
+    - barcode: GGAA
+  - - E1004_05
+    - barcode: ACGT
+  - - E1004_06
+    - barcode: CCTT
+  - - E1004_08
+    - barcode: CATG
+  - - E1004_13
+    - barcode: GAAG
+  - - E1004_14
+    - barcode: GTAC
+  - - E1004_15
+    - barcode: CGAT
+
+2018-11-28 12:46 - INFO - runner - ***** pyinseq complete! *****
