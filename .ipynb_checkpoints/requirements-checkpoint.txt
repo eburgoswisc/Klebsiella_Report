@@ -1,0 +1,6 @@
+pandas
+bokeh
+seaborn
+matplotlib
+ipywidgets
+numpy
